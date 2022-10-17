@@ -6,13 +6,13 @@ layout: default
 
 ## Description
 
-You may have heard of a roadbook being used by rally drivers in such events as the Dakar Rally. A roadbook is arranged in the form of a table. Each line describes a significant point on the route, for example, a crossroads, a fork, a curiosity to see or a dangerous point.
+You may have heard of a roadbook being used by rally drivers in such events as the Dakar Rally. A roadbook is arranged in the form of a table. Each line describes a significant point on the route, for example, a crossroads, a fork, a curiosity to see, or a dangerous point.
 
-Instead of designing the roadbooks by hand, Roadbook Recorder offers an easy solution for automatic generation of these tables, making it convenient for rally organizers.
+Instead of designing the roadbooks by hand, Roadbook Recorder offers an easy solution for the automatic generation of these tables, making it convenient for rally organizers.
 
 ## How it works
 
-Initially, the route is covered with a means of transport, so that GPS coordinates are recorded. For data processing, a new layer is added from Googlr Maps / OpenStreet Maps. Visual analysis is done on the image.
+Initially, the route is covered with a means of transport, so that GPS coordinates are recorded. For data processing, a new layer is added from Google Maps / OpenStreet Maps. Visual analysis is done on the image.
 
 An AI algorithm detects intersections on the map and automatically generates waypoints for the Roadbook. Other waypoints can be added manually. Distances are automatically calculated from the recorded track.
 
@@ -32,7 +32,7 @@ An application that allows the user to manually trace the desired route on a map
 
 ## Why Roadbook Recorder
 
-The functionality of Roadbook Recorder is based on atrificial intelligence, so that the generation process is faster, easier, and requires minimum interaction from the user's end.
+The functionality of Roadbook Recorder is based on artificial intelligence, so that the generation process is faster, and easier, and requires minimal interaction from the user's end.
 
 ## Our team
 
