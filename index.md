@@ -38,7 +38,7 @@ The functionality of Roadbook Recorder is based on artificial intelligence, so t
 
 | Name                     | Roles                                | Contact                          |
 |:-------------------------|:-------------------------------------|:---------------------------------|
-| Andrei David             | Infrastructure, Public Relations     | andrei.david0207@upb.ro          |
+| Andrei David             | Infrastructure, Project Manager      | andrei.david0207@upb.ro          |
 | Ruxandra Grigore         | Android, Public Relations            | ruxandra.grigore@stud.acs.upb.ro |
 | Nicolae-Iulian Nitu      | Android, Public Relations            | nitu.nicolae.1098@gmail.com      |
 | Iulia-Ana Tanasescu      | Web, Public Relations                | iulia.tanasescu56@gmail.com      |
