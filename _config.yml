@@ -13,31 +13,31 @@ people:
   pic: 1
   position: Project Manger, Infrastucture
   social:
-    - title: mail
+    - title: comment
       url: mailto:andrei.david0207@upb.ro
     - title: github
       url: https://github.com/dandrei279
 
 - name: Ruxandra Grigore
   pic: 2
-  position: Lead Marketer
+  position: NLP, Public Relations
   social:
-    - title: mail
-      url: #
+    - title: comment
+      url: mailto:ruxandra.grigore@stud.acs.upb.ro
 
 - name: Iulia-Ana Tănăsescu
   pic: 3
-  position: Lead Developer
+  position: Web Developer, Public Relations
   social:
-    - title: mail
-      url: #
+    - title: comment
+      url: mailto:iulia.tanasescu56@gmail.com
 
 - name: Nicolae-Iulian Nițu
   pic: 4
-  position: Lead Developer
+  position: NLP, Public Relations
   social:
-    - title: mail
-      url: #
+    - title: comment
+      url: mailto:nitu.nicolae.1098@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
