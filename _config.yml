@@ -1,9 +1,54 @@
-title: Roadbook Recorder
-description: A tool dedicated for automatic generation of roadbooks.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-tactile
+url: https://roadbook-recorder.github.io/
+baseurl: /
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Site settings
+title: Roadbook Recorder
+email: your-email@domain.com
+description: "A tool dedicated for automatic generation of roadbooks."
+
+
+# Team names, titles and social links
+people:
+- name: Andrei David
+  pic: 1
+  position: Project Manger, Infrastucture
+  social:
+    - title: mail
+      url: mailto:andrei.david0207@upb.ro
+    - title: github
+      url: https://github.com/dandrei279
+
+- name: Ruxandra Grigore
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: mail
+      url: #
+
+- name: Iulia-Ana Tănăsescu
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: mail
+      url: #
+
+- name: Nicolae-Iulian Nițu
+  pic: 4
+  position: Lead Developer
+  social:
+    - title: mail
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/roadbook-recorder
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
