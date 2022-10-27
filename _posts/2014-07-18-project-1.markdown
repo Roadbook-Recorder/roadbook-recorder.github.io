@@ -6,6 +6,6 @@ date: 2014-07-18
 img: working.png
 thumbnail: working-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Initially, the route is covered with a means of transport, so that GPS coordinates are recorded. For data processing, a new layer is added from Google Maps / OpenStreet Maps. Visual analysis is done on the image. Instead of designing the roadbooks by hand, Roadbook Recorder offers an easy solution for the automatic generation of these tables, making it convenient for rally organizers.
 
 ---

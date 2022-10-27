@@ -6,6 +6,5 @@ date: 2014-07-16
 img: competition.png
 thumbnail: competition-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: <h3 align="left">Seekers</h3> <p align="left"> An application that allows the user to import a GPX track and to convert that track to a route. This will match the track to roads, detect off-road sections and integrate waypoints to be reached. </p> <h3 align="left">Rally Navigator</h3> <p align="left"> An application that allows the user to manually trace the desired route on a map and to design and edit the Roadbook based on it. </p> 
 ---

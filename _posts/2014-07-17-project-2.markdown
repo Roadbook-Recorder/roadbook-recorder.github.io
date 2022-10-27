@@ -6,6 +6,6 @@ date: 2014-07-17
 img: customer.png
 thumbnail: customer-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The Roadbook Recorder solution is to be used by rally organizers, in the process of generating Roadbooks.
 
 ---

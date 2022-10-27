@@ -6,6 +6,6 @@ date: 2014-07-15
 img: advantages.png
 thumbnail: advantages-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The functionality of Roadbook Recorder is based on artificial intelligence, so that the generation process is faster, and easier, and requires minimal interaction from the user’s end.
 
 ---
