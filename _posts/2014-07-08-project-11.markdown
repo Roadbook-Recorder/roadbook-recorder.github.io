@@ -1,0 +1,48 @@
+---
+title: User Interviews
+layout: default
+modal-id: 11
+img: baja500_conversation.png
+img1: baja_500_phone_call.jpeg
+img2: nsm_motorsport_conversation.png 
+img3: nsm_motorsport_phone_call.jpeg
+date: 2014-07-08
+thumbnail: user-interviews-thumbnail.png
+description:
+
+---
+
+<div style="text-align: justify"> We reached out to multiple rally organizers on Facebook. We asked them if we could schedule a meeting or a telephone call so we can ask a few questions about the way the organize competitions and generate roadbooks. </div>
+
+<h3 style="text-align: left"> Our interviews </h3>
+
+<div style="text-align: left"> So far, we interviewed two rally organizers: </div>
+
+<h4 style="text-align: left"> <a href="http://nsmmotorsport.ro/">NSM Motorsport</a> </h4>
+
+<div style="text-align: left"> From our conversation with NSM Motorsport, we found out the following information: </div>
+
+<div style="text-align: left"> 
+    <ul>
+        <li>They organize competitions based on roadbook navigation.</li>
+        <li>They generate roadbooks by hand.</li>
+        <li>From the available roadbook generation tools, they have tried Rally Navigator.</li>
+        <li>Still, they prefer to generate roadbooks by hand.</li>
+    </ul> 
+</div>
+
+<h4 style="text-align: left"> <a href="https://www.facebook.com/romanianbaja/">Baja 500</a> </h4>
+
+<div style="text-align: left"> Baja 500 offered us the following information: </div>
+
+<div style="text-align: left"> 
+    <ul>
+        <li>Like NSM Motorsport, they also organize competitions based on roadbook navigation.</li>
+        <li>They generate roadbooks using Rally Navigator.</li>
+        <li>They record the track, they upload the recording to Rally Navigator, they generate the Roadbook and then they are making adjustments. </li>
+        <li>The adjustment part takes the most time, because they need to cover the route multiple times and update the roadbook to make sure it includes all the details.</li>
+        <li>Even if they use the Rally Navigator tool, the generation process is still very long - taking up to two weeks of hard work.</li>
+    </ul> 
+</div>
+
+<div style="text-align: left"> Below there are some screenshots of the Facebook and phone conversations: </div>
