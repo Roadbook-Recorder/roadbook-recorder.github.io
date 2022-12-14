@@ -6,6 +6,6 @@ date: 2014-07-15
 img: revenue.png
 thumbnail: revenue-thumbnail.png
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Roadbook Recorder's revenue comes from the roadbook generations that are carried out through the implemented platform.
 
 ---
