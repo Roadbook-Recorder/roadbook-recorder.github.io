@@ -6,6 +6,18 @@ date: 2014-07-18
 img: working.png
 thumbnail: working-thumbnail.png
 alt: image-alt
-description: Initially, the route is covered with a means of transport, so that GPS coordinates are recorded. For data processing, a new layer is added from Google Maps / OpenStreet Maps. Visual analysis is done on the image. Instead of designing the roadbooks by hand, Roadbook Recorder offers an easy solution for the automatic generation of these tables, making it convenient for rally organizers.
+description:
 
 ---
+
+<div style="text-align: left"> 
+    <ul>
+        <li>Initially, the route is covered with a means of transport, so that GPS coordinates are recorded.</li>
+        <li>A GXP file is generated using any GPS map app, like OruxMaps.</li>
+        <li>The GPX file is imported in the Roadbook Recorder app.</li>
+        <li>The mobile app relies on a server that will process the GPX and will generate the roadbook.</li>
+        <li>The roadbook is displayed in the app.</li>
+        <li>The user can scroll up or down through the document while navigating.</li>
+        <li>If needed, the document can be manually edited by double tapping on any sections.</li>
+    </ul> 
+</div>

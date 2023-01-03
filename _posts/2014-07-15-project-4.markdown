@@ -6,6 +6,16 @@ date: 2014-07-15
 img: advantages.png
 thumbnail: advantages-thumbnail.png
 alt: image-alt
-description: The functionality of Roadbook Recorder is based on artificial intelligence, so that the generation process is faster, and easier, and requires minimal interaction from the user’s end.
+description:
 
 ---
+
+<div style="text-align: left"> 
+    Compared to other web based applications that allow roadbook generation, Roadbook Recorder has the advantage of being a mobile app that is easier to use.
+    
+    <br />
+    <br />
+
+    Apart from generating the roadbook, the app allows users to scroll through the document while navigating. This way, it offers a more comfortable solution for rally navigation usign just the mobile phone, without the need for special equipment. The user can also easily edit the generated document by double tapping on any area of the roadbook and choosing the desired option from a drop down list.
+</div>
+

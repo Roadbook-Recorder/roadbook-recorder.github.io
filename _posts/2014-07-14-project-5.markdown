@@ -6,6 +6,6 @@ date: 2014-07-14
 img: cost.png
 thumbnail: cost-thumbnail.png
 alt: image-alt
-description: Our cost structure is value-driven - Roadbook Recorder wishes to provide a better solution for roadbook generation, compared to what the competition is offering. Our costs are fixed per roadbook generation.
+description: Our cost structure is value-driven - Roadbook Recorder wishes to provide a better solution for roadbook generation and manipulation, compared to what the competition is offering. Our costs are fixed per roadbook generation and special features.
 
 ---

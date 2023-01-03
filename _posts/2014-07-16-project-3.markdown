@@ -6,5 +6,17 @@ date: 2014-07-16
 img: competition.png
 thumbnail: competition-thumbnail.png
 alt: image-alt
-description: <h3 align="left">Seekers</h3> <p align="left"> An application that allows the user to import a GPX track and to convert that track to a route. This will match the track to roads, detect off-road sections and integrate waypoints to be reached. </p> <h3 align="left">Rally Navigator</h3> <p align="left"> An application that allows the user to manually trace the desired route on a map and to design and edit the Roadbook based on it. </p> 
+description:
 ---
+
+<h3 align="left">Seekers</h3>
+<p align="left"> A web application that allows the user to import a GPX track and to convert that track to a route. This will match the track to roads, detect off-road sections and integrate waypoints to be reached.</p>
+
+<h3 align="left">Rally Navigator</h3>
+<p align="left"> A web application that allows the user to manually trace the desired route on a map and to design and edit the Roadbook based on it.</p>
+
+<h3 align="left">Kurviger</h3>
+<p align="left"> A web / mobile application that allows the user to plan a route by placing waypoints on a map. The user can also ugenerate a Roadbook type document in the form of an Excel worksheet, containing information about the waypoints.</p>
+
+<h3 align="left">Rabbit Rally</h3>
+<p align="left"> A mobile application that allows you to manually draw roadbooks. As the track is covered with a means of transport, the application automatically calculates the distance that was covered. At any point on the track, the user can stop and add a new entry in the roadbook.</p> 

@@ -6,6 +6,21 @@ date: 2014-07-15
 img: revenue.png
 thumbnail: revenue-thumbnail.png
 alt: image-alt
-description: Roadbook Recorder's revenue comes from the roadbook generations that are carried out through the implemented platform.
+description:
 
 ---
+
+<div style="text-align: left"> Roadbook Recorder's revenue comes from the roadbook generations that are carried out through the implemented application.
+<br />
+<br />
+    For a user, the first 3 roadbook generations are free. After that, all generations will be paid for.
+<br />
+<br />
+    Our application will also host advertisements. Apart from basic roadbook generation, some extra features will be paid for. These features are:
+<br />
+<br />
+<ul>
+    <li>downloading a PDF version of the generated roadbook.</li>
+    <li>editing a generated roadbook.</li>
+</ul>
+</div>

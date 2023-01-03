@@ -18,23 +18,23 @@ people:
     - title: github
       url: https://github.com/dandrei279
 
-- name: Ruxandra Grigore
+- name: Ruxandra Grigorie
   pic: 2
-  position: NLP, Public Relations
+  position: Public Relations, Android
   social:
     - title: comment
       url: mailto:ruxandra.grigore@stud.acs.upb.ro
 
 - name: Iulia-Ana Tănăsescu
   pic: 3
-  position: Web Developer, Public Relations
+  position: Public Relations
   social:
     - title: comment
       url: mailto:iulia.tanasescu56@gmail.com
 
 - name: Nicolae-Iulian Nițu
   pic: 4
-  position: NLP, Public Relations
+  position: Public Relations, Android
   social:
     - title: comment
       url: mailto:nitu.nicolae.1098@gmail.com

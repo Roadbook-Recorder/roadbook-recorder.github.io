@@ -6,6 +6,10 @@ date: 2014-07-17
 img: customer.png
 thumbnail: customer-thumbnail.png
 alt: image-alt
-description: The Roadbook Recorder solution is to be used by rally organizers, in the process of generating Roadbooks.
+description:
 
 ---
+
+<div style="text-align: left"> 
+    The Roadbook Recorder solution is to be used by rally organizers, or anybody who is passionate about motorsport and would like an easy to use tool to generate and manipulate roadbooks for personal use.
+</div>
