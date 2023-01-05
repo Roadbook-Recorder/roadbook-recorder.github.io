@@ -1,0 +1,11 @@
+---
+title: User Persona
+layout: default
+modal-id: 10
+date: 2014-07-09
+img: user-personna.png
+thumbnail: user-persona-thumbnail.png
+alt: image-alt
+description:
+
+---
