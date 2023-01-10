@@ -6,6 +6,6 @@ date: 2014-07-11
 img: wireframe.png
 thumbnail: wireframe-thumbnail.png
 alt: image-alt
-description: First access the landing page, then login. After that in the studio you can uplaod the recorded track and start generating your roadbook.  Checkout <a href="https://roadbook-recorder.studio"> this </a>
+description:
 
 ---

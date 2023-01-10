@@ -39,6 +39,13 @@ people:
     - title: comment
       url: mailto:nitu.nicolae.1098@gmail.com
 
+- name: Nicolae-Andrei Vasile
+  pic: 5
+  position: Public Relations, Web
+  social:
+    - title: comment
+      url: mailto:nicolae.vasile2005@stud.acs.upb.ro
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
