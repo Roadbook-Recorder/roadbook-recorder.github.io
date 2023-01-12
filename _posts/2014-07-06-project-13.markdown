@@ -1,0 +1,14 @@
+---
+title: Lead generation and collection
+layout: default
+modal-id: 13
+img1: segment.png
+img2: amplitude.jpeg
+date: 2014-07-07
+thumbnail: analytics.png
+description:
+
+---
+
+<div style="text-align: justify">As for the lead collection section, on the landing page <a href="http://roadbook-recorder.studio">(Click here)</a> we collect email addresses with a subscribe form. The email addresses are collected in Segment and then the data is aggregated in Amplitude. Below are two pictures of the email collection in Segment and of the User Activity in Amplitude. </div>
+
