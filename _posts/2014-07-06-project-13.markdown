@@ -10,5 +10,5 @@ description:
 
 ---
 
-<div style="text-align: justify">As for the lead collection section, on the landing page <a href="http://roadbook-recorder.studio">(Click here)</a> we collect email addresses with a subscribe form. The email addresses are collected in Segment and then the data is aggregated in Amplitude. Below are two pictures of the email collection in Segment and of the User Activity in Amplitude. </div>
+<div style="text-align: justify">As for the lead collection section, on the <a href="http://roadbook-recorder.studio">landing page</a> we collect email addresses with a subscribe form. The email addresses are collected in Segment and then the data is aggregated in Amplitude. Below are two pictures of the email collection in Segment and of the User Activity in Amplitude. </div>
 
