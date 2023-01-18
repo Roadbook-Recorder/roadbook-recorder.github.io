@@ -1,0 +1,14 @@
+---
+title: MVP - Android Application
+layout: default
+modal-id: 14
+img1: mainscreen.jpeg
+img2: editscreen.jpeg
+date: 2014-07-07
+thumbnail: mvp.png
+description:
+
+---
+
+<div style="text-align: justify">The MVP of our solution curently allows generating a simple roadbook with a simple interface to navigate. Editing the roadbook is also possible in the way of changing the symbols.</div>
+
